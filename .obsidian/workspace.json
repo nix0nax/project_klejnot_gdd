@@ -182,16 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fe84ff5177d173a",
+  "active": "ced7fb6913259c86",
   "lastOpenFiles": [
     "Notes/(De)buff system.md",
     "Notes/Core gameplay loop.md",
     "Notes/Consumables.md",
     "Notes/Item system.md",
-    "Stimulus/Stimulus and Reactor system.md",
+    "Notes/Stimulus and Reactor system.md",
     "Categories/Goals.md",
     "Notes/Design Pillars.md",
-    "reactor and stimulus example.gif",
+    "Pictures/reactor and stimulus example.gif",
     "Categories/Mechanics.md",
     "Categories/Primary mechanics.md",
     "Stimulus",
