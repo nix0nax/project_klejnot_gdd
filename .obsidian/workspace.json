@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "07ad243635b81897",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7ba1db30fcd26c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fe84ff5177d173a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Core gameplay loop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Core gameplay loop"
+            }
+          },
+          {
+            "id": "2b477c6b37c21f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Design Pillars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design Pillars"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95a441290df8b663",
+    "type": "split",
+    "children": [
+      {
+        "id": "25b9c9deb170d277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ced7fb6913259c86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1b8cce96f5fb70c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77e36c3466db27c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6bcfd55b763b09cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ebd566ff8e04a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52cc868935ee8952",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Categories/General.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for General"
+            }
+          },
+          {
+            "id": "d1e44955bea83e81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Categories/General.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from General"
+            }
+          },
+          {
+            "id": "50a09ad796a44e80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ae3671aa0feb257",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Categories/General.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of General"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5fe84ff5177d173a",
+  "lastOpenFiles": [
+    "Notes/(De)buff system.md",
+    "Notes/Core gameplay loop.md",
+    "Notes/Consumables.md",
+    "Notes/Item system.md",
+    "Stimulus/Stimulus and Reactor system.md",
+    "Categories/Goals.md",
+    "Notes/Design Pillars.md",
+    "reactor and stimulus example.gif",
+    "Categories/Mechanics.md",
+    "Categories/Primary mechanics.md",
+    "Stimulus",
+    "Notes/Movement system.md",
+    "Notes/Crafting system.md",
+    "Pictures/core loop 1.drawio.png",
+    "Table of contents (list of categories).md",
+    "core loop 1.drawio(1).png",
+    "Fleeting/Miš notes.md",
+    "Notes/Setting outline.md",
+    "Fleeting/16.04.2025 - design meeting agenda and notes.md",
+    "Fleeting/16.04.2025 - Nudl Notes.md",
+    "Categories/Design.md",
+    "Notes/Technical details.md",
+    "Categories/Gameplay.md",
+    "Notes/List of tags.md",
+    "Notes/Summary.md",
+    "Notes/Project Phases.md",
+    "Notes/Inspirations.md",
+    "Fleeting/Unanswered questions.md",
+    "Notes/grwssdgx.md",
+    "Fleeting/Untitled.md",
+    "Pictures",
+    "Pictures/Pasted image 20250413054154.png",
+    "Fleeting",
+    "Index",
+    "Notes",
+    "Categories"
+  ]
+}
