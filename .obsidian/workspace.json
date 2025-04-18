@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Core gameplay loop.md",
+                "file": "Categories/Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core gameplay loop"
+              "title": "Mechanics"
             }
           },
           {
@@ -182,23 +182,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ced7fb6913259c86",
+  "active": "5fe84ff5177d173a",
   "lastOpenFiles": [
-    "Notes/(De)buff system.md",
-    "Notes/Core gameplay loop.md",
-    "Notes/Consumables.md",
-    "Notes/Item system.md",
+    "Categories/Secondary mechanics.md",
+    "Categories/Primary mechanics.md",
     "Notes/Stimulus and Reactor system.md",
+    "Notes/Core gameplay loop.md",
+    "Categories/Mechanics.md",
+    "Notes/(De)buff system.md",
+    "Notes/Consumables.md",
+    "Categories/Gameplay.md",
+    "Table of contents (list of categories).md",
+    "Notes/Item system.md",
     "Categories/Goals.md",
     "Notes/Design Pillars.md",
     "Pictures/reactor and stimulus example.gif",
-    "Categories/Mechanics.md",
-    "Categories/Primary mechanics.md",
     "Stimulus",
     "Notes/Movement system.md",
     "Notes/Crafting system.md",
     "Pictures/core loop 1.drawio.png",
-    "Table of contents (list of categories).md",
     "core loop 1.drawio(1).png",
     "Fleeting/Miš notes.md",
     "Notes/Setting outline.md",
@@ -206,14 +208,12 @@
     "Fleeting/16.04.2025 - Nudl Notes.md",
     "Categories/Design.md",
     "Notes/Technical details.md",
-    "Categories/Gameplay.md",
     "Notes/List of tags.md",
     "Notes/Summary.md",
     "Notes/Project Phases.md",
     "Notes/Inspirations.md",
     "Fleeting/Unanswered questions.md",
     "Notes/grwssdgx.md",
-    "Fleeting/Untitled.md",
     "Pictures",
     "Pictures/Pasted image 20250413054154.png",
     "Fleeting",
