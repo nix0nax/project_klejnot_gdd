@@ -118,18 +118,19 @@ Get from point A to point B (WITH your cart). You probably don't know the exact 
 levels should probably be very very expansive. Big reusable areas with a ton of branching paths, not one corridor from A to B. Part of the challenge can also be navigation?
 # ideas for stimuli and reactors
 ## Stimuli
-- food
-- fire
-- biomass
+- poison
+- noise
+- acid
+- smoke
+- miasma
+- salt
+- electricity (or other form of power)
+- mud
+- heat
+- water
+- cold
 - kinetic energy
 - explosion
-- water
-- electricity (or other form of power)
-- poison
-- cold
-- noise
-- glue type thing
-- acid
 ## reactors
 - burn (start emitting fire stimulus)
 - eat food (creatures want to eat food, they can reward you or just be distracted)
@@ -149,3 +150,25 @@ levels should probably be very very expansive. Big reusable areas with a ton of 
 - break container (releases contents)
 - harden (mud near fire)
 - flatten dough into tortilla lol
+
+
+
+
+# 21.04.2025 Discord call notes
+Items that go in for sure:
+- biomass
+- rock
+- rope
+- sulphur
+- mud/clay
+- mud
+- containers
+- water
+- oil
+- coal
+- torch
+- lantern
+
+
+Elements:
+- shiny crystal

@@ -7,5 +7,5 @@ For the core gameplay loop see: [[Core gameplay loop]]
 - [[Item system]]
 - [[Stimulus and Reactor system]]
 # [[Secondary mechanics]]
-- [[Consumables]]
-- [[(De)buff system]]
+- [[Reading notes]]
+

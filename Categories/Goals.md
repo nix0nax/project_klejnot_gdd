@@ -15,12 +15,10 @@ Why? Players should be given the freedom to use all the systems they are given t
 ## There should be many optional side areas with rewards
 Pillars: discovery, agency, oppressive but conquerable
 Why? This encourages discovery and lets the player choose if they want to expend extra resources for potential rewards.
-## Resources should be scarce but (usually) renewable
-Pillars: limited resources, discovery, interactive environment, oppressive but conquerable
-Why? Experimentation with crafting is a central component of the game. If the player uses their resources to craft something out of curiosity, they should not be punished. Having to renew resources also makes the environment more interactive.
-## There should be many different kinds of consumables
-Pillars: agency, discovery, interactive environment, problem solving
-Why? Many consumables incentivize experimentation and more approaches to solving problems. They also facilitate emergent environment interactions.
 ## There should be many paths to your goal
 Pillars: discovery, agency
 Why? Caves can be complex, we want to avoid the frustration of having to find the exact correct path somewhere. Some paths might also feature obstacles a player is more prepared to handle, giving them more agency in the path they chose.
+## All items should be reusable or "decraftable"
+(at least first draft)
+Pillars: interactive environment, Limited resources
+Why? The player should be allowed to experiment without wasting resources.

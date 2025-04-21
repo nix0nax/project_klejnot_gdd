@@ -15,6 +15,14 @@ A stimulus can be triggered by:
 Example of heat stimulus and "cookable" reactor.
 
 # List of stimuli
-todo
-- Heat
-- Kinetic energy
+(In approximate order of importance)
+- kinetic energy
+- heat
+- water
+- electricity (or other form of power)
+- explosion
+- light
+- cold
+- mud
+- miasma
+- salt

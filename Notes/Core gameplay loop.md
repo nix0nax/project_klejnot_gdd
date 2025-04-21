@@ -5,8 +5,6 @@ Categories: [[Gameplay]], [[General]], [[Design]]
 
 Interacting with the environment can be done through multiple core systems:
 - [[Crafting system]]
-- [[Consumables]]
-- [[Item system]] - [[Moving items]]
+- [[Item system]]
 - [[Movement system]]
 - [[Stimulus and Reactor system]]
-- [[(De)buff system]]
